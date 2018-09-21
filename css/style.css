@@ -1,0 +1,62 @@
+body{
+    background: lavenderblush;
+}
+h1{
+    color: lightsalmon;
+    font: Times;
+}
+
+h3{
+    color: lightcoral;
+    font: Times;
+}
+
+li{
+	text-decoration: none;
+	display:inline;
+	background-color: white;
+	color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    width: 25%
+}
+
+i{
+    color: lightcoral;
+    font-size: 25px;
+}
+
+i:hover{
+    color: lightseagreen;
+}
+
+.flex{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+ 
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    border: 1px solid lightcyan;
+    background-color: lavenderblush;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: gray;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
